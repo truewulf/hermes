@@ -23,8 +23,8 @@ hermes -v                  version
 ```
 
 hold shift to use local selection and scrollback when an application captures
-the mouse. `ctrl+shift++` and `ctrl+shift+-` change font size;
-`ctrl+shift+r` resets it.
+the mouse. `ctrl shift +` and `ctrl shift -` change font size;
+`ctrl shift r` resets it.
 
 ## what is here
 
