@@ -1,11 +1,10 @@
 # hermes
 
-small practical terminal for wayland
+a small practical Wayland terminal, based on [havoc](https://github.com/ii8/havoc)
 
 ## build
 
-install the development files for wayland-client, wayland-cursor, xkbcommon
-and fontconfig, plus wayland-protocols and wayland-scanner.
+requires Wayland development libraries, xkbcommon, fontconfig, wayland-protocols and wayland-scanner.
 
 ```sh
 make
@@ -38,5 +37,4 @@ isc, see LICENSE
 
 ## thanks
 
-thanks to [havoc](https://github.com/ii8/havoc) and its contributors for the
-foundation.
+hermes is a fork of [Havoc](https://github.com/ii8/havoc)
