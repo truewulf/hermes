@@ -35,6 +35,6 @@ see `hermes.cfg` for configuration options.
 
 isc, see LICENSE
 
-## thanks
+## origin
 
-hermes is a fork of [Havoc](https://github.com/ii8/havoc)
+hermes is a fork of [havoc](https://github.com/ii8/havoc)
